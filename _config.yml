@@ -1,0 +1,28 @@
+name: Jeffrey Beecher
+favicon: null
+layout_spectrum: 0.6513858940452337
+typography_spectrum: 0.9045488238334656
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8596017139498144
+  lightness: 0.5151204424910247
+  saturation: 0.7752892677672207
+  rhythmicContrast: 0.9047421873547137
+purpose: []
